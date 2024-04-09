@@ -10,6 +10,23 @@
   "author": "Wick Studio",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "@discordjs/rest": "^2.2.0",
+    "@keyv/sqlite": "^3.6.7",
+    "canvas": "^2.11.1",
+    "canvas-constructor": "^7.0.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "discord-api-types": "^0.37.79",
+    "discord-inviter": "^0.9.3",
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2",
+    "keyv": "^4.5.4",
+    "moment": "^2.30.1",
+    "weird-to-normal-chars": "^1.8.3"
+  },
+  "devDependencies": {
+    "node": "^16.9.1"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
